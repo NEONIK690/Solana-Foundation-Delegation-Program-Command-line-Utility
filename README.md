@@ -54,4 +54,5 @@ Mainnet Validator Identity: Y6QMPrYtZLsKTuT8mtYBD9pj1h3wrqUhJKCFDv1L26NR
 Testnet Validator Identity: E1bcuniYQhDscfDjE4zaAXQ51TH77gsQoRuzvqXHxnDf
 6txERiviWdXG6BeyRQD3b4RN1v3LZd94khK4vxEz2TNeYSzoLmkDNsMKdkC6rVEwUe5kCUbS8tGmYq2vZa4fTJi
 ```
-
+solana-foundation-delegation-program status ~/solana/mainnet-validator-keypair.json  -этой командой можно проверить состояние вашей (пути могут отличаться) связки ключей.
+Как только статус "Pending" сменится на "Aprove" можно радоваться - вас одобрили в майнет.
